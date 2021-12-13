@@ -2,8 +2,8 @@
 
 ### It has the following features:
 
-*Command-line interface
-*Supports Addition, Multiplication, Subtraction, Division
+* Command-line interface
+* Supports Addition, Multiplication, Subtraction, Division
 
 ### Flow:
 * Player calls program
